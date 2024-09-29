@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @RuMap22
+- 👋 Hi, I’m @Ru22
 - 👀 I’m interested in Computer Science and Game development 
-- 🌱 I’m currently learning SQL & HTML?CSS
+- 🌱 I’m currently learning HTML/CSS and C
 
 
 <!---
